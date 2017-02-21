@@ -9,14 +9,13 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
-[image1]: ./examples/grayscale.jpg "Grayscale"
-[contrast-before]: ./images/contrast-before.jpg "Before contrast"
-[contrast-after]: ./images/contrast-after.jpg "After contrast"
+[contrast-before]: ./images/contrast-before.png "Before contrast"
+[contrast-after]: ./images/contrast-after.png "After contrast"
 [result1]: ./images/white-output.png "Lane lines - provided video"
 [result2]: ./images/yellow-output.png "Lane lines - provided video"
 [result3]: ./images/challenge-output.png "Lane lines - challenge video"
-[result4]: ./images/result-namur-1.jpg "Lane lines - self-made video"
-[result5]: ./images/result-namur-2.jpg "Lane lines - self-made video"
+[result4]: ./images/result-namur-1.png "Lane lines - self-made video"
+[result5]: ./images/result-namur-2.png "Lane lines - self-made video"
 ---
 
 ## Pipeline Description
