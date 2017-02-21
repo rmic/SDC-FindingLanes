@@ -14,8 +14,8 @@ The goals / steps of this project are the following:
 [result1]: ./images/white-output.png "Lane lines - provided video"
 [result2]: ./images/yellow-output.png "Lane lines - provided video"
 [result3]: ./images/challenge-output.png "Lane lines - challenge video"
-[result4]: ./images/result-namur-1.png "Lane lines - self-made video"
-[result5]: ./images/result-namur-2.png "Lane lines - self-made video"
+[result4]: ./images/namur1-output.png "Lane lines - self-made video"
+[result5]: ./images/namur2-output.png "Lane lines - self-made video"
 ---
 
 ## Pipeline Description
